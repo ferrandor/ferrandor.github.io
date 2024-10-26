@@ -16,5 +16,7 @@ Outside of work, I enjoy spending time with family, reading historical fiction, 
 | | Email Address: |
 --------------------
 | For questions about my research: | `rferrando (at) arizona (dot) edu` |
+--------------------------------------------------------------------------------------
 | For all other inquiries: | `robert (dot) louis (dot) ferrando (at) gmail (dot) com |
+--------------------------------------------------------------------------------------
 
