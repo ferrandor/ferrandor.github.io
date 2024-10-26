@@ -21,13 +21,13 @@ repository               : "ferrandor/ferrandor.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ferrando.jpg"
   name             : "Robert Ferrando"
   pronouns         : "He/Him/His"  
   bio              : "I am a PhD candidate in Applied Mathematics."
   location         : "Tucson, AZ, USA"
   employer         : "University of Arizona"
-  uri              : https://ferrandor.github.io
+  uri              : "https://ferrandor.github.io"
   email            : "rferrando@arizona.edu" 
 
   # Academic websites
@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0009-0007-8066-653X"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Robert-Ferrando"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
