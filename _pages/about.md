@@ -11,5 +11,6 @@ Hello! I am a fifth-year PhD candidate in the [Graduate Interdisciplinary Progra
 
 ## How to contact me:
 
-To learn more about my research: `rferrando (at) arizona (dot) edu`
+For questions about my research: `rferrando (at) arizona (dot) edu`
+
 For all other inquiries: `robert (dot) louis (dot) ferrando (at) gmail (dot) com`
