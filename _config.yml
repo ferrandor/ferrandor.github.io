@@ -27,7 +27,7 @@ author:
   bio              : "I am a PhD candidate in Applied Mathematics."
   location         : "Tucson, AZ, USA"
   employer         : "University of Arizona"
-  uri              : "https://ferrandor.github.io"
+  uri              : #""
   email            : "rferrando@arizona.edu" 
 
   # Academic websites
